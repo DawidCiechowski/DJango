@@ -7,6 +7,7 @@ from . import views
 
 #Set the redirects paths
 #Trolololo
+#Hey ho, hey ho
 urlpatterns = [
     path('', views.index),
     path('new', views.new)
