@@ -6,6 +6,7 @@ from . import views
 # /products/new
 
 #Set the redirects paths
+#Trolololo
 urlpatterns = [
     path('', views.index),
     path('new', views.new)
