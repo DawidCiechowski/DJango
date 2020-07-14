@@ -1,4 +1,4 @@
-# Personal Blog using DJango
+# Basic Website using Django
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ outlook of the website look better.
 - CSS
 
 <a name="how"></a>
-##How it works
+## How it works
 
 By downloading the repository, the personal development server can be run via DJango Framework. 
 
