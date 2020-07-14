@@ -13,7 +13,7 @@ A project revolving around learning the basics of HTML and DJango framework for 
 outlook of the website look better.
 
 <a name="tech"></a>
-##Technologies
+## Technologies
 
 - Python
 - DJango Framework
